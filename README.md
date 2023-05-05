@@ -1,4 +1,4 @@
-# Doctour
+# Geeks-Fit
 ### The foundation of this project is built on
 
 ## API
@@ -9,7 +9,7 @@
 
 ## ROOT
 
-- ``` Doctour ```
+- ``` Geeks-Fit ```
 - ``` MVVM ```
 - ``` Retrofit ```
 - ``` Hilt ```
