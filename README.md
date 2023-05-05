@@ -1,4 +1,4 @@
-# GeeksFit
+# Doctour
 ### The foundation of this project is built on
 
 ## API
@@ -9,11 +9,11 @@
 
 ## ROOT
 
+- ``` Doctour ```
 - ``` MVVM ```
 - ``` Retrofit ```
 - ``` Hilt ```
-- ``` Paging 3 ```
-- ``` Fitness ```
+- ``` Doctour ```
 - ``` Flow ```
 
 ## OTHER
@@ -22,7 +22,7 @@
 
 **Gradle** version ``` 7.4 ```
 
-**Gradle plugin** version ``` 7.3.1 ```
+**Gradle plugin** version ``` 7.3.0 ```
 
 Target **Android API** ``` 33 ```
 
